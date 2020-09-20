@@ -9,19 +9,19 @@
 
 ## Summary of Findings
 
-> <ul>
-    <li>"Other" and "Professional" occupations have the greatest number of default loans.</li>
-    <li>Borrowers with a ProsperScore of 4.0 are the most common borrowers to default. </li>
-    <li>Monthly income of default borrowers most fall mostly within the 1k-10k range, with the most common income around 5k per month.</li>
-    <li>Homeowner status is almost equivalent in paid vs unpaid loan groups.</li>
-    <li>The strongest correlation that exists is between BorrowerAPR and ProsperScore. </li>
-    <li>Occupation vs Loan Status is quite similar from those who pay their loans vs those who don't. </li>
-    <li>Most defaulted loans fall within the $25,000-$49,999 income range for borrowers.</li>
-    <li>The APR with the most defaults is around 0.35. </li>
-    <li>For each category of employment type, the borrower's APR is higher in the group that defaults. </li>
-    <li>Self-employed has the lowest ProsperScore but least number of defaults. </li>
-    <li>Generally, as number of delinquent accounts increases, a borrower's APR also increases.</li> 
-</ul>
+> 
+    "Other" and "Professional" occupations have the greatest number of default loans.
+    Borrowers with a ProsperScore of 4.0 are the most common borrowers to default. 
+    Monthly income of default borrowers most fall mostly within the 1k-10k range, with the most common income around 5k per month.
+    Homeowner status is almost equivalent in paid vs unpaid loan groups.
+    The strongest correlation that exists is between BorrowerAPR and ProsperScore. 
+    Occupation vs Loan Status is quite similar from those who pay their loans vs those who don't. 
+    Most defaulted loans fall within the $25,000-$49,999 income range for borrowers.
+    The APR with the most defaults is around 0.35. 
+    For each category of employment type, the borrower's APR is higher in the group that defaults. 
+    Self-employed has the lowest ProsperScore but least number of defaults. 
+    Generally, as number of delinquent accounts increases, a borrower's APR also increases. 
+
 
 
 ## Key Insights for Presentation

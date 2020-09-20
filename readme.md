@@ -11,7 +11,7 @@
 
 >   "Other" and "Professional" occupations have the greatest number of default loans.
     Borrowers with a ProsperScore of 4.0 are the most common borrowers to default. 
-    Monthly income of default borrowers most fall mostly within the 1k-10k range, with the most common income around 5k per month.
+    Monthly income of default borrowers fall mostly within the 1k-10k range, with the most common income around 5k per month.
     Homeowner status is almost equivalent in paid vs unpaid loan groups.
     The strongest correlation that exists is between BorrowerAPR and ProsperScore. 
     Occupation vs Loan Status is quite similar from those who pay their loans vs those who don't. 
